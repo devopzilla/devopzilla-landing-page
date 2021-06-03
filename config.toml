@@ -1,6 +1,6 @@
 baseURL = "https://www.devopzilla.com/"
 languageCode = "en-us"
-title = "DevopZilla"
+title = "DevSecOps"
 
 
 theme = "hello-friend-ng"
@@ -118,20 +118,25 @@ disableHugoGeneratorInject = false
   # Colors for favicons
   #
   [params.favicon.color]
-    mask = "#1b1c1d"
-    msapplication = "#1b1c1d"
-    theme = "#1b1c1d"
+    # mask = "#1b1c1d"
+    # msapplication = "#1b1c1d"
+    # theme = "#1b1c1d"
+    mask = "#00B0B0"
+    msapplication = "#00B0B0"
+    theme = "#00B0B0"
 
   [params.logo]
     logoMark     = ">"
     # logoText     = "$ cd /home/"
-    logoText     = "DevSecOps"
+    logoText     = "DevopZilla"
 
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
     # logoCursorColor    = "#67a2c9"
+    logoCursorColor    = "#00B0B0"
+
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "1s"
 
@@ -169,6 +174,10 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
+    url  = "#"
+
+  [[params.social]]
+    name = "slack"
     url  = "#"
 
 #   [[params.social]]

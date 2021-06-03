@@ -176,11 +176,7 @@ disableHugoGeneratorInject = false
 #     url  = "https://www.stackoverflow.com/"
 
 [menu]
-#   [[menu.main]]
-#     identifier = "about"
-#     name       = "About"
-#     url        = "about/"
-#   [[menu.main]]
-#     identifier = "posts"
-#     name       = "Posts"
-#     url        = "posts/"
+  [[menu.main]]
+    identifier = "events"
+    name       = "Events"
+    url        = "events/"

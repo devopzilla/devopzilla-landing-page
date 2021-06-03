@@ -184,12 +184,3 @@ disableHugoGeneratorInject = false
 #     identifier = "posts"
 #     name       = "Posts"
 #     url        = "posts/"
-
-
-[mediaTypes]
-[mediaTypes."text/html"]
-suffixes = ["html"]
-
-[outputFormats]
-[outputFormats.HTML]
-mediaType = "text/html"

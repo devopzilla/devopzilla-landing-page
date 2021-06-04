@@ -26,7 +26,7 @@ Build a simple RESTful CRUD API for a merchant application to manage 2 resources
 |item id|
 |shopping cart id|
 |requested quantity|
-|total_cost|
+|total cost|
 
 ## ACCEPTANCE CRITERIA
 + An http client should be able to read, add, update, and delete items.

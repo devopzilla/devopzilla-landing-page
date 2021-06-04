@@ -19,3 +19,9 @@ Dockerize your application and it’s dependencies, then deploy the containers o
 + The app server should be listening on port 80, and the server IP should be publicly reachable.
 + The final app deployment should not run in development mode.
 + Conduct a load test with [Artillery](https://github.com/artilleryio/artillery) from your PC.
+
+
+## REFERENCES
+| Topic |  Resource  |
+| ----- | ---------- |
+|||

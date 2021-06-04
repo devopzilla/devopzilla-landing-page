@@ -36,7 +36,9 @@ Build a simple RESTful CRUD API for a merchant application to manage 2 resources
 + There should be at least one test case for every possible operation (>= 8).
 
 ## REFERENCES
-+ [Flask (framework choice)](https://flask.palletsprojects.com/en/2.0.x/installation/)
-+ [Django (framework choice)](https://docs.djangoproject.com/en/3.2/intro/tutorial01/) 
-+ [12 factors](https://12factor.net/)
-+ [12 factors illustrated](https://www.redhat.com/architect/12-factor-app)
+| Topic |  Resource  |
+| ----- | ---------- |
+|Framework Choice|[Flask](https://flask.palletsprojects.com/en/2.0.x/installation/)|
+|Framework Choice|[Django](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)|
+|Software Methodology|[12 factors](https://12factor.net/)|
+|Software Methodology|[12 factors illustrated](https://www.redhat.com/architect/12-factor-app)|

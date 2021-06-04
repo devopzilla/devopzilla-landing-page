@@ -1,21 +1,22 @@
-+++
-title = "Devops \"Charmander-to-Charmeleon\" bootcamp"
-slug = "devops-bootcamp-2021-1"
-description = "Getting started with DevOps"
-type = "post"
-date = "2021-06-03"
-categories = ["bootcamp"]
-+++
+---
+title: Prerequisites
+description: Getting started with DevOps
+slug: "milestone-00"
+type: post
+date: 2021-06-03
+publishdate: 2021-06-03
+weight: 0
+---
 
-![devops charmander](../charmander_2_final.png)
+
+### > basic linux commands
+### > basic python
+### > knowledge about web development
+### > no ready made solutions for milestones will be available
+### > expect to help yourself and others (acknowledgements channel)
 
 
-## Introduction
-
-A 3 month hands-on intro to devops, requires around 20 hours per week.
-
-## Prerequisites
-
+## REFERENCES
 | Topic |  Resource  |
 | ----- | ---------- |
 |Linux|[article about ubuntu terminal commands](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)

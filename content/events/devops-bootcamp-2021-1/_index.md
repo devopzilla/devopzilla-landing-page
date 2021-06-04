@@ -17,7 +17,7 @@ A **3 month** hands-on **intro to devops**.
 
 ### 🤓 What am I going to learn?
 1) **Building a simple RESTful API to perform CRUD operations**
-2) **Deploying web applications on AWS EC2 instances**
+2) **Deploying web applications on cloud VM instances**
 3) **Dockerizing web applications and deploying them using docker-compose**
 4) **How to perform load testing**
 5) **Bulding continous integration and continous deployment pipelines**

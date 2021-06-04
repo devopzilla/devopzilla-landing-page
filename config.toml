@@ -112,7 +112,7 @@ disableHugoGeneratorInject = false
     trademark = true
     rss = false
     copyright = false
-    author = false
+    author = true
 
     topText = []
     bottomText = ["Powered by <a href=\"http://gohugo.io\">Hugo</a>",

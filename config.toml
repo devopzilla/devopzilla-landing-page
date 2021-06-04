@@ -1,6 +1,9 @@
 baseURL = "https://www.devopzilla.com/"
 languageCode = "en-us"
-title = "DevSecOps"
+# title = "DevopZilla ◭ DevSecOps"
+# title = "DevopZilla ∞ DevSecOps"
+# title = "DevopZilla || DevSecOps"
+title = "DevopZilla"
 
 
 theme = "hello-friend-ng"
@@ -57,7 +60,7 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "DevSecOps"
+  description = "DevopZilla"
   keywords = ""
   images = [""]
 

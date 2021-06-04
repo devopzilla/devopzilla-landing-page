@@ -46,4 +46,5 @@ Just your time, this bootcamp is **free**.
 ### 📚 Am I expected to have any background knowledge?
 Yes, **basic python programming** and **knowledge about web applications** are required. But don't worry the **[prerequisites page](milestone-00/)** has resources to help you catch up. **Motiviation** and **Commitment** is all what you need.
 
+⬘
 

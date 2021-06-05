@@ -124,11 +124,12 @@ disableHugoGeneratorInject = false
     # mask = "#1b1c1d"
     # msapplication = "#1b1c1d"
     # theme = "#1b1c1d"
-    mask = "#00B0B0"
-    msapplication = "#00B0B0"
-    theme = "#00B0B0"
+    mask = "#37C8AB"
+    msapplication = "#37C8AB"
+    theme = "#37C8AB"
 
   [params.logo]
+    # logoPath = "zilla.png"
     logoMark     = ">"
     # logoText     = "$ cd /home/"
     logoText     = "DevopZilla"
@@ -138,7 +139,7 @@ disableHugoGeneratorInject = false
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
     # logoCursorColor    = "#67a2c9"
-    logoCursorColor    = "#00B0B0"
+    logoCursorColor    = "#37C8AB"
 
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "1s"
@@ -156,10 +157,9 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+  [params.portrait]
+    path     = "devopzilla.png"
+    alt      = "Portrait"
 
   # Social icons
 #   [[params.social]]

@@ -7,7 +7,10 @@
         <div>
             {{ if .Site.Params.Portrait.Path }}
                <img src="{{ .Site.Params.Portrait.Path }}" class="center-img" alt="{{ .Site.Params.Portrait.Alt }}"/>
-               </br>
+            {{ else }}
+
+                <h1>{{ .Site.Title }}</h1>
+
             {{ end }}
 
             {{- with .Site.Params.homeSubtitle }}

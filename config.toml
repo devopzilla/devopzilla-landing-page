@@ -3,8 +3,7 @@ languageCode = "en-us"
 # title = "DevopZilla ◭ DevSecOps"
 # title = "DevopZilla ∞ DevSecOps"
 # title = "DevopZilla || DevSecOps"
-title = "DevopZilla"
-
+# title = "DevSecOps"
 
 theme = "hello-friend-ng"
 
@@ -64,9 +63,8 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  # Home subtitle of the index page.
-  #
   homeSubtitle = "Something is cooking!"
+  # homeSubtitle = "Making DevSecOps juggernauts"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -129,7 +127,7 @@ disableHugoGeneratorInject = false
     theme = "#37C8AB"
 
   [params.logo]
-    # logoPath = "zilla.png"
+    # path = "/devopzilla_logo.svg"
     logoMark     = ">"
     # logoText     = "$ cd /home/"
     logoText     = "DevopZilla"

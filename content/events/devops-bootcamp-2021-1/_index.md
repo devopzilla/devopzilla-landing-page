@@ -7,6 +7,8 @@ featured: "charmander_2_final.png"
 description: "Getting started with DevOps"
 type: "post"
 categories: ["bootcamp"]
+images:
+- "/events/devops-bootcamp-2021-1/charmander_2_final.png"
 ---
 
 ![devops charmander](charmander_2_final.png)

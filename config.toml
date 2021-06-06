@@ -158,7 +158,9 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    path     = "devopzilla_rightous_colored_large.png"
+    # path     = "devopzilla_rightous_colored_large.png"
+    path     = "devopzilla_logo.svg"
+
     alt      = "Portrait"
 
   # Social icons

@@ -157,7 +157,7 @@ disableHugoGeneratorInject = false
   #
   [params.portrait]
     # path     = "devopzilla_rightous_colored_large.png"
-    path     = "devopzilla_logo.svg"
+    path     = "devopzilla_logo_simpler.svg"
 
     alt      = "Portrait"
 

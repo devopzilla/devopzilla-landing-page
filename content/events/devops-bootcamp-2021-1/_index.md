@@ -43,6 +43,7 @@ You are going to tackle milestones alone, refer to reference links, and ask othe
 [#AWS EC2](https://aws.amazon.com/ec2/)
 [#GIT](https://git-scm.com/)
 [#Slack](https://slack.com/)
+[#Docker Hub](https://hub.docker.com/)
 
 
 ### 📚 Am I expected to have any background knowledge?

@@ -29,6 +29,7 @@ Build a simple RESTful CRUD API for a merchant application to manage 2 resources
 |total cost|
 
 ## ACCEPTANCE CRITERIA
++ The code should be stored on a public Github repository
 + An http client should be able to read, add, update, and delete items.
 + An http client should be able to read, add, update, and delete orders.
 + And order can only be placed if the requested quantity of the item is less than or equal the available quantity of that item.

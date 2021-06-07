@@ -12,8 +12,6 @@ weight: 0
 ### > basic linux commands
 ### > basic python
 ### > knowledge about web development
-### > no ready made solutions for milestones will be available
-### > expect to help yourself and others (acknowledgements channel)
 
 
 ## REFERENCES

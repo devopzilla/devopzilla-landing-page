@@ -14,14 +14,18 @@ Dockerize your application and it’s dependencies, then deploy the containers o
 
 ## ACCEPTANCE CRITERIA
 + Create Dockerfiles for your app.
++ Push your docker image to a Docker image registry.
 + Deploy your app and it’s dependencies using docker-compose.
++ Any new resources you add (etc. Dockerfile, docker-compose.yaml) should be commited to the source code.
 + Make sure that your app and it’s data persist restarts.
 + The app server should be listening on port 80, and the server IP should be publicly reachable.
 + The final app deployment should not run in development mode.
-+ Conduct a load test with [Artillery](https://github.com/artilleryio/artillery) from your PC.
++ Conduct a load test from your PC.
 
 
 ## REFERENCES
 | Topic |  Resource  |
 | ----- | ---------- |
-|||
+|Docker Registry|[Docker Hub Registry](https://docs.docker.com/docker-hub/repos/)|
+|Running Containers|[Docker Compose](https://docs.docker.com/compose/)|
+|Load Testing|[Artillery](https://github.com/artilleryio/artillery)|

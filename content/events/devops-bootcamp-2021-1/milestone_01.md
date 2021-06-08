@@ -14,6 +14,9 @@ images:
 ## GOAL
 Build a simple RESTful CRUD API for a merchant application to manage 2 resources; items and orders.
 
+## WHY?
+Devops aims to shorten the software development life cycle by merging development and operations, so it will help you become a better devops engineer by looking into apps from the developer's perspective. 
+
 ## MODELS
 |Item|
 |---|

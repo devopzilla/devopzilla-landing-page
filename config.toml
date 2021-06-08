@@ -181,7 +181,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "slack"
-    url  = "#"
+    url  = "https://join.slack.com/t/devopzillacommunity/shared_invite/zt-rlt8goox-v~KnynspdnxVUHBnh6P~Kw"
 
 #   [[params.social]]
 #     name = "stackoverflow"

@@ -33,6 +33,7 @@ images:
 ## REFERENCES
 | Topic |  Resource  |
 | ----- | ---------- |
+|Scalability|[Horizontal vs Vertical](https://www.section.io/blog/scaling-horizontally-vs-vertically/)|
 |Load Balancing|[Nginx Docker Load Balancing (LB strategies)](https://levelup.gitconnected.com/nginx-load-balancing-and-using-with-docker-7e16c49f5d9)|
 |Load Balancing|[Nginx Docker Load Balancing](https://towardsdatascience.com/sample-load-balancing-solution-with-docker-and-nginx-cf1ffc60e644)|
 |Inter-server communication|[AWS EC2 Security Groups](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-rules-reference.html)|

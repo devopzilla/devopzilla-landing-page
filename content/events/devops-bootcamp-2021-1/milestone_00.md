@@ -22,6 +22,7 @@ images:
 |Linux|[article about ubuntu terminal commands](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 |Python|[python tutorial](https://docs.python.org/3/tutorial/index.html)|
 |Python|[interactive python tutorial](https://www.learnpython.org)|
+|GIT|[GIT & Github tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)|
 |JSON|[wikipedia article](https://en.wikipedia.org/wiki/JSON)|
 |JSON|[article](https://developers.squarespace.com/what-is-json)|
 |Web Basics|[article - overview](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)|

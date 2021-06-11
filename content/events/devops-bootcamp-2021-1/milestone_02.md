@@ -20,6 +20,9 @@ Deploy your app and it’s dependencies on a free tier EC2 instance with Ubuntu 
 + The final app deployment should not run in development mode.
 + The app server should be listening on port 80, and the server IP should be publicly reachable.
 + Conduct a load test with [Artillery](https://github.com/artilleryio/artillery) from your PC.
+    + Start with 10 RPS (Requests/Second)
+    + Double the number of requests per second until you reach failures from the server. (Server limit)
+    + Export and attach the artillery reports to the repository.
 
 
 ## DELIVERABLES 📦

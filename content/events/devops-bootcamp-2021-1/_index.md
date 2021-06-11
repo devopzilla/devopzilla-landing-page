@@ -21,6 +21,8 @@ The bootcamp is remote and asyncrhonous, our main means of communication will be
 
 You are going to tackle milestones alone, refer to reference links, and ask other people to help you out on slack. You should also try helping others once in a while 😅! without sharing final deliverables off-course, because this will not help anyone learn!!
 
+N.B. Private slack channels for each milestone will only be unlocked when you pass the previous milestone acceptance criteria and submit the deliverables.
+
 ### 🤓 What am I going to learn?
 1) **Building a simple RESTful API to perform CRUD operations**
 2) **Deploying web applications on cloud VM instances**

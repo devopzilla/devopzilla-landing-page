@@ -16,6 +16,7 @@ Dockerize your application and it’s dependencies, then deploy the containers o
 
 ## ACCEPTANCE CRITERIA
 + Create Dockerfiles for your app.
++ Add resource constraints to each container.
 + Push your docker image to a Docker image registry.
 + Deploy your app and it’s dependencies using docker-compose.
 + Any new resources you add (etc. Dockerfile, docker-compose.yaml) should be commited to the source code.
@@ -40,4 +41,5 @@ Dockerize your application and it’s dependencies, then deploy the containers o
 | ----- | ---------- |
 |Docker Registry|[Docker Hub Registry](https://docs.docker.com/docker-hub/repos/)|
 |Running Containers|[Docker Compose](https://docs.docker.com/compose/)|
+|Docker Resource Constraints|[Docker Resource Constraints](https://docs.docker.com/config/containers/resource_constraints/)|
 |Load Testing|[Artillery](https://github.com/artilleryio/artillery)|

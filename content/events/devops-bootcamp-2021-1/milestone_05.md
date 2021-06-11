@@ -12,10 +12,14 @@ images:
 
 
 ## GOAL
-
+Handle higher traffic loads by scalling the app hosizontally. To achieve horizontal scalability the app will be deployed across multiple EC2 instances.
 
 ## ACCEPTANCE CRITERIA
-
++ Create two EC2 machines and deploy two instances of the app on them.
++ Create once EC2 machine for the load balancer (NGINX as a reverse proxy in our case). NGINX instance should be dockerized.
++ Create once EC2 machine for the database. Database instance should be dockerized.
++ Configure the load balancer to route traffic to the two instances in a round robin fashion.
++ Update your CI/CD to deploy the instances on different machines.
 
 ## DELIVERABLES 📦
 + Github project link (the project should be public)

@@ -16,7 +16,7 @@ Dockerize your application and it’s dependencies, then deploy the containers o
 
 ## ACCEPTANCE CRITERIA
 + Create Dockerfiles for your app.
-+ Add resource constraints to each container.
++ Add resource constraints to each docker container.
 + Push your docker image to a Docker image registry.
 + Deploy your app and it’s dependencies using docker-compose.
 + Any new resources you add (etc. Dockerfile, docker-compose.yaml) should be commited to the source code.

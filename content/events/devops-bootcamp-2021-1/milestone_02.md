@@ -29,8 +29,7 @@ Deploy your app and it’s dependencies on a free tier EC2 instance with Ubuntu 
     + show how the app is deployed on the server
     + explain the server restart persistence mechanism
     + show load testing run
-+ Load testing reports in text files on the repo, inside the dir "load_test_reports"
-
++ Load testing reports in text files on the repo, inside the dir "load_test_reports/load_test_{milestone number}"
 
 ## REFERENCES
 | Topic |  Resource  |

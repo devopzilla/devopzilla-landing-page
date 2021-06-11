@@ -24,6 +24,16 @@ Dockerize your application and it’s dependencies, then deploy the containers o
 + The final app deployment should not run in development mode.
 + Conduct a load test from your PC.
 
+## DELIVERABLES 📦
++ Github project link (the project should be public)
++ Docker Hub repository link (the repo should be public)
++ Public server IP v4 address
++ Short demo video posted on Slack
+    + show how the app is deployed on the server
+    + explain the server restart persistence mechanism
+    + show load testing run
++ Load testing reports in text files on the repo, inside the dir "load_test_reports/load_test_{milestone number}"
+
 
 ## REFERENCES
 | Topic |  Resource  |

@@ -16,6 +16,14 @@ images:
 
 ## ACCEPTANCE CRITERIA
 
+## DELIVERABLES 📦
++ Github project link (the project should be public)
++ Short demo video posted on Slack
+    + show the kubernetes manifests
+    + explain the app architecture
+    + show load testing run
++ Load testing reports in text files on the repo, inside the dir "load_test_reports/load_test_{milestone number}"
+
 
 ## REFERENCES
 | Topic |  Resource  |

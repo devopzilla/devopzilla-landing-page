@@ -22,6 +22,15 @@ Automate the whole process of shipping application changes to production.
 + The pipeline should re-deploy the application on the EC2 instance
 + Secrets like SSH private keys should not be visible in source code nor printed in pipeline logs.
 
+
+## DELIVERABLES 📦
++ Github project link (the project should be public)
++ Docker Hub repository link (the repo should be public)
++ Public server IP v4 address
++ Short demo video posted on Slack
+    + explain how the pipeline works in details
+
+
 ## REFERENCES
 | Topic |  Resource  |
 | ----- | ---------- |

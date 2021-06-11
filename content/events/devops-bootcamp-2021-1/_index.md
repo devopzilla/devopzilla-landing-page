@@ -51,9 +51,9 @@ N.B. Private slack channels for each milestone will only be unlocked when you pa
 ### 📚 Am I expected to have any background knowledge?
 Yes, basic knowledge about **python programming** and **web applications** are required. But don't worry the **[prerequisites page](milestone-00/)** has resources to help you catch up. **Motiviation** and **Commitment** is all what you need.
 
-### 🚀 More perks by joining the bootcamp?
+### 🚀 Bootcamp Perks!
 1) **Attendees will recieve a reference letter upon completing all milestones**
-2) **Exposure to job opportunities and gigs in our main slack community after the bootcamp**
+2) **Exposure to job opportunities and gigs on our slack community**
 3) **Expand your network by meeting more people from the community**
 
 ⬘

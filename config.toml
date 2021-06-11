@@ -65,6 +65,7 @@ disableHugoGeneratorInject = false
 
   homeSubtitle = "Something is cooking!"
   # homeSubtitle = "Making DevSecOps juggernauts"
+  # homeSubtitle = "DevSecOps Powerhouses for you Software"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"

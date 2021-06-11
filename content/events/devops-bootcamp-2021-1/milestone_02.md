@@ -24,6 +24,17 @@ Deploy your app and it’s dependencies on a free tier EC2 instance with Ubuntu 
     + Double the number of requests per second until you reach failures from the server. (Server limit)
     + Export and attach the artillery reports to the repository.
 
+
+## DELIVERABLES 📦
++ Github project link (the project should be public)
++ Public server IP v4 address
++ Short demo video posted on Slack
+    + show how the app is deployed on the server
+    + explain the server restart persistence mechanism
+    + show load testing run
++ Load testing reports in text files on the repo, inside the dir "load_test_reports"
+
+
 ## REFERENCES
 | Topic |  Resource  |
 | ----- | ---------- |

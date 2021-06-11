@@ -41,6 +41,9 @@ Devops aims to shorten the software development life cycle by bridging developme
 + Data should be persistent across server restarts.
 + There should be at least one test case for every possible operation (>= 8).
 
+## DELIVERABLES 📦
++ Github project link (the project should be public)
+
 ## REFERENCES
 | Topic |  Resource  |
 | ----- | ---------- |

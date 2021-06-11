@@ -17,7 +17,7 @@ images:
 ### 🤔 What is this about?
 A community effort to help with the devops talent shortage, share knowledge, and meet interesting people. This is a **free** hands on bootcamp -you will be learning by doing-. The bootcamp should take about **20 hours/week** for **3 months** to complete all milestones -so you don't have to quit your day job-.
 
-The bootcamp is remote and asyncrhonous, so there will be no live sessions nor a pre-defined schedule, our main means of communication will be the DevopZilla Slack channel. We can meetup between milestones just to get to know each other better, but this is optional.
+The bootcamp is remote and asyncrhonous, our main means of communication will be the DevopZilla Community Slack channel. We can meetup between milestones just to get to know each other better, but this is optional.
 
 You are going to tackle milestones alone, refer to reference links, and ask other people to help you out on slack. You should also try helping others once in a while 😅! without sharing final deliverables off-course, because this will not help anyone learn!!
 

@@ -122,9 +122,9 @@ disableHugoGeneratorInject = false
     # mask = "#1b1c1d"
     # msapplication = "#1b1c1d"
     # theme = "#1b1c1d"
-    mask = "#37C8AB"
-    msapplication = "#37C8AB"
-    theme = "#37C8AB"
+    mask = "#00ccff"
+    msapplication = "#00ccff"
+    theme = "#00ccff"
 
   [params.logo]
     # path = "/devopzilla_logo.svg"
@@ -136,8 +136,7 @@ disableHugoGeneratorInject = false
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
-    logoCursorColor    = "#37C8AB"
+    logoCursorColor    = "#00ccff"
 
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "1s"

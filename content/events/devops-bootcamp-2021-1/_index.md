@@ -1,7 +1,7 @@
 ---
 title: "Devops \"Charmander-to-Charmeleon\" bootcamp"
-date: 2021-06-03
-publishdate: 2021-06-03
+date: 2021-06-13
+publishdate: 2021-06-13
 slug: "devops-bootcamp-2021-1"
 featured: "charmander_2_final.png"
 description: "Getting started with DevOps"
@@ -13,6 +13,7 @@ images:
 
 ![devops charmander](charmander_2_final.png)
 
+### [Sign Up Now!](https://forms.gle/HjA7Y5UcESXJbHBJ9)
 
 ### 🤔 What is this about?
 A community effort to help with the devops talent shortage, share knowledge, and meet interesting people. This is a **free** hands on bootcamp -you will be learning by doing-. The bootcamp should take about **20 hours/week** for **2 months** to complete all milestones -so you don't have to quit your day job-.
@@ -55,5 +56,8 @@ Yes, basic knowledge about **python programming** and **web applications** are r
 1) **Attendees will recieve a reference letter upon completing all milestones**
 2) **Exposure to job opportunities and gigs on our slack community**
 3) **Expand your network by meeting more people from the community**
+
+
+### [Sign Up Now!](https://forms.gle/HjA7Y5UcESXJbHBJ9)
 
 ⬘

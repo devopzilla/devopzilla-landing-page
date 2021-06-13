@@ -3,8 +3,8 @@ title: Evolution Stage 0.1 AKA Build an app
 description: Getting started with DevOps
 slug: "milestone-01"
 type: post
-date: 2021-06-03
-publishdate: 2021-06-03
+date: 2021-06-13
+publishdate: 2021-06-13
 weight: 10
 images:
 - "/events/devops-bootcamp-2021-1/charmander_2_final.png"

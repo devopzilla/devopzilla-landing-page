@@ -193,3 +193,6 @@ disableHugoGeneratorInject = false
     identifier = "events"
     name       = "Events"
     url        = "events/"
+
+
+googleAnalytics = "G-0X9MR84ZKC"

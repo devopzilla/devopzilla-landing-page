@@ -13,7 +13,7 @@ images:
 
 ![devops charmander](charmander_2_final.png)
 
-### [Sign Up Now!](https://forms.gle/HjA7Y5UcESXJbHBJ9)
+### **[Sign Up Now!](https://forms.gle/HjA7Y5UcESXJbHBJ9)**
 
 ### 🤔 What is this about?
 A community effort to help with the devops talent shortage, share knowledge, and meet interesting people. This is a **free** hands on bootcamp -you will be learning by doing-. The bootcamp should take about **20 hours/week** for **2 months** to complete all milestones -so you don't have to quit your day job-.
@@ -58,6 +58,6 @@ Yes, basic knowledge about **python programming** and **web applications** are r
 3) **Expand your network by meeting more people from the community**
 
 
-### [Sign Up Now!](https://forms.gle/HjA7Y5UcESXJbHBJ9)
+### **[Sign Up Now!](https://forms.gle/HjA7Y5UcESXJbHBJ9)**
 
 ⬘

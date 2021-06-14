@@ -195,16 +195,24 @@ strong {
 }
 
 .center-img {
-  // margin-left: 25%;
-  // margin-right: 25%;
-  // max-width: 50%;
+  margin-left: 20%;
+  margin-right: 10%;
+  max-width: 70%;
 
   @media #{$media-size-phone} {
     margin-left: 10%;
-    margin-right: 10%;
-    max-width: 80%;
+    margin-right: 5%;
+    max-width: 85%;
   }
 }
+
+// .center-img {
+//   @media #{$media-size-phone} {
+//     margin-left: 10%;
+//     margin-right: 10%;
+//     max-width: 80%;
+//   }
+// }
 
 code {
   font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;

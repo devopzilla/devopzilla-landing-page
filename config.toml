@@ -66,8 +66,8 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Something is cooking!"
-  # homeSubtitle = "DevSecOps Accelerator. By Developers, for Developers."
+  # homeSubtitle = "Something is cooking!"
+  homeSubtitle = "DevSecOps Accelerator. By Developers, for Developers."
   # homeSubtitle = "Making DevSecOps juggernauts"
   # homeSubtitle = "DevSecOps Powerhouses for you Software"
 

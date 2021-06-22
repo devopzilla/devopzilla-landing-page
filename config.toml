@@ -175,9 +175,9 @@ disableHugoGeneratorInject = false
   #   # url  = "mailto:nobody@devopzilla.com"
   #   url  = "#"
 
-  # [[params.social]]
-  #   name = "github"
-  #   url  = "#"
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/devopzilla"
 
   # [[params.social]]
   #   name = "linkedin"

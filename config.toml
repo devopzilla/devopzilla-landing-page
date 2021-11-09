@@ -170,18 +170,22 @@ disableHugoGeneratorInject = false
 #     name = "twitter"
 #     url  = "https://twitter.com/"
 
-  # [[params.social]]
-  #   name = "email"
-  #   # url  = "mailto:nobody@devopzilla.com"
-  #   url  = "#"
+  [[params.social]]
+    name = "email"
+    url  = "mailto:contact@devopzilla.com"
 
   [[params.social]]
     name = "github"
     url  = "https://github.com/devopzilla"
 
-  # [[params.social]]
-  #   name = "linkedin"
-  #   url  = "#"
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/company/dvpzla"
+
+  [[params.social]]
+    name = "dev"
+    url  = "https://wiki.devopzilla.com"
+
 
   # [[params.social]]
   #   name = "slack"

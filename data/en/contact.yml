@@ -1,17 +1,17 @@
 ############################## Contact #############################
 contact:
   enable: true
-  title: Contact Us
+  title: Get in touch
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  # content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 
   # Contact details
   contact_list:
-    # - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-    #   info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    - icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info: "1st Settlement, Cairo, Egypt"
 
     # - icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
-    #   info: "Phone: +880-31-000-000"
+    #   info: "Phone: +201000099712"
 
     # - icon: ti-printer # themify icon pack : https://themify.me/themify-icons
     #   info: "Fax: +880-31-000-000"
@@ -21,7 +21,7 @@ contact:
 
   # Contact form
   contact_form:
-    enable: true
+    enable: false
     form_action: "#" #contact form works with https://formspree.io
     name: "Your Name"
     email: "Your Email"

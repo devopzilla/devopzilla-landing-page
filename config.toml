@@ -47,15 +47,17 @@ link = "plugins/google-map/map.js"
 # url = "events"
 # weight = 1
 
-[[Languages.en.menu.main]]
-name = "About"
-url = "#about"
-weight = 1
 
 [[Languages.en.menu.main]]
 name = "Services"
 url = "#services"
-weight = 2
+weight = 1
+
+# [[Languages.en.menu.main]]
+# name = "About"
+# url = "#about"
+# weight = 2
+
 
 # [[Languages.en.menu.main]]
 # name = "portfolio"
@@ -72,10 +74,10 @@ weight = 2
 # url = "#pricing"
 # weight = 5
 
-[[Languages.en.menu.main]]
-name = "Blog"
-url = "blog"
-weight = 6
+# [[Languages.en.menu.main]]
+# name = "Blog"
+# url = "blog"
+# weight = 6
 
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -106,6 +108,11 @@ expire_days = 2
 
 
 ############################# social icons ##########################
+
+# [[params.social]]
+# icon = "ti-email" # themify icon pack : https://themify.me/themify-icons
+# link = "mailto:contact@devopzilla.com"
+
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
 link = "https://github.com/devopzilla"
@@ -113,6 +120,10 @@ link = "https://github.com/devopzilla"
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.linkedin.com/company/dvpzla"
+
+[[params.social]]
+icon = "ti-book" # themify icon pack : https://themify.me/themify-icons
+link = "https://wiki.devopzilla.com"
 
 ################################ English Language ########################
 [Languages.en]

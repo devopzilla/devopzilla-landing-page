@@ -8,5 +8,5 @@ banner:
   content: "by Developers, for Developers"
   button:
     enable: true
-    label: "About Us"
-    link: "#about"
+    label: "Our Services"
+    link: "#services"

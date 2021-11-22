@@ -4,7 +4,7 @@ banner:
   # bg_image_webp: "images/backgrounds/hero-area.webp"
   # bg_image: "images/backgrounds/hero-area.jpg"
   icon: "" # themify icon pack : https://themify.me/themify-icons
-  title: "DevSecOps {} Accelerator"
+  title: "DevSecOps Accelerator"
   content: "By Developers, for Developers."
   button:
     enable: true

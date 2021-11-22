@@ -1,203 +1,136 @@
-baseURL = "https://www.devopzilla.com/"
-languageCode = "en-us"
-# title = "DevopZilla ◭ DevSecOps"
-# title = "DevopZilla ∞ DevSecOps"
-# title = "DevopZilla || DevSecOps"
-# title = "DevSecOps"
+################################# Default configuration ###################
+baseURL = "https://www.devopzilla.com"
+title = "DevopZilla"
+theme = "meghna-hugo"
+# themesDir = "../.."
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = []
 
-theme = "hello-friend-ng"
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
-enableThemeToggle = true
-paginate  = 10
-# rssLimit  = 10  # Maximum number of items in the RSS feed.
-# copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
 
-# googleAnalytics = ""
-# disqusShortname = ""
+################### English Navigation ########################
+# [[Languages.en.menu.main]]
+# name = "events"
+# url = "events"
+# weight = 1
 
-archetypeDir = "archetypes"
-contentDir   = "content"
-dataDir      = "data"
-layoutDir    = "layouts"
-publishDir   = "public"
 
-buildDrafts  = false
-buildFuture  = false
-buildExpired = false
-canonifyURLs = true
+[[Languages.en.menu.main]]
+name = "Services"
+url = "#services"
+weight = 1
 
-enableRobotsTXT = true
-enableGitInfo   = false
-enableEmoji     = true
-enableMissingTranslationPlaceholders = false
-disableRSS     = true
-disableSitemap = false
-disable404     = false
-disableHugoGeneratorInject = false
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 2
 
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
+[[Languages.en.menu.main]]
+name = "Tech Wiki"
+url = "https://wiki.devopzilla.com"
+weight = 3
 
-[author]
-  name = "devopzilla"
 
-[blackfriday]
-  hrefTargetBlank = true
+# [[Languages.en.menu.main]]
+# name = "portfolio"
+# url = "#portfolio"
+# weight = 3
 
-[taxonomies]
-  tag      = "tags"
-  category = "categories"
-  series   = "series"
+# [[Languages.en.menu.main]]
+# name = "team"
+# url = "#team"
+# weight = 4
 
+# [[Languages.en.menu.main]]
+# name = "pricing"
+# url = "#pricing"
+# weight = 5
+
+# [[Languages.en.menu.main]]
+# name = "Blog"
+# url = "blog"
+# weight = 6
+
+
+
+############################# Default Parameters ##########################
 [params]
-  # googleAnalytics = "G-0X9MR84ZKC"
-  googleAnalyticsID = "G-0X9MR84ZKC"
+logo =  "devopzilla_logo_simpler.svg"
+# Meta data
+description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Themefisher"
+# Google Analytics
+google_analytics_id = "" # Your ID
+# post share
+post_share = true
 
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+# preloader
+[params.preloader]
+enable = false
+preloader = "images/logo.png"
 
-  # Metadata mostly used in document's head
-  # 
-  description = "DevopZilla"
-  keywords = ""
-  images = [""]
-
-  # homeSubtitle = "Something is cooking!"
-  homeSubtitle = "DevSecOps Accelerator. By Developers, for Developers."
-  # homeSubtitle = "Making DevSecOps juggernauts"
-  # homeSubtitle = "DevSecOps Powerhouses for you Software"
-
-  # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
-
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  #
-  # gitUrl = ""
-
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  #
-  disableReadOtherPosts = false
-
-  # Enable theme toggle
-  # 
-  # This options enables the theme toggle for the theme. 
-  # Per default, this option is off. 
-  # The theme is respecting the prefers-color-scheme of the operating systeme. 
-  # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = false
-
-  # Sharing buttons
-  #
-  # There are a lot of buttons preconfigured. If you want to change them,
-  # generate the buttons here: https://sharingbuttons.io
-  # and add them into your own `layouts/partials/sharing-buttons.html`
-  #
-  enableSharingButtons = true
-
-  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  #
-  customCSS = []
-  customJS  = []
-
-  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  #
-  justifyContent = false  # Set "text-align: justify" to .post-content.
-
-  # Custom footer 
-  # If you want, you can easily override the default footer with your own content. 
-  #
-  [params.footer]
-    trademark = true
-    rss = false
-    copyright = false
-    author = true
-
-    topText = []
-    # bottomText = ["Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-    #         "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"]
-
-  # Colors for favicons
-  #
-  [params.favicon.color]
-    # mask = "#1b1c1d"
-    # msapplication = "#1b1c1d"
-    # theme = "#1b1c1d"
-    mask = "#00ccff"
-    msapplication = "#00ccff"
-    theme = "#00ccff"
-
-  [params.logo]
-    # path = "/devopzilla_logo.svg"
-    logoMark     = ">"
-    # logoText     = "$ cd /home/"
-    logoText     = "DevopZilla"
-
-    logoHomeLink = "/"
-    # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
-    # Set to a valid CSS color to change the cursor in the logo.
-    logoCursorColor    = "#00ccff"
-
-    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "1s"
-
-  # Commento is more than just a comments widget you can embed — 
-  # it’s a return to the roots of the internet. 
-  # An internet without the tracking and invasions of privacy. 
-  # An internet that is simple and lightweight. 
-  # An internet that is focused on interesting discussions, not ads. 
-  # A better internet.
-  # Uncomment this to enable Commento.
-  #
-  # [params.commento]
-  #   url = ""
-
-  # Uncomment this if you want a portrait on your start page
-  #
-  [params.portrait]
-    # path     = "devopzilla_rightous_colored_large.png"
-    path     = "devopzilla_logo_simpler.svg"
-
-    alt      = "Portrait"
-
-  # Social icons
-#   [[params.social]]
-#     name = "twitter"
-#     url  = "https://twitter.com/"
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:contact@devopzilla.com"
-
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/devopzilla"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/company/dvpzla"
-
-  [[params.social]]
-    name = "dev"
-    url  = "https://wiki.devopzilla.com"
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
 
 
-  # [[params.social]]
-  #   name = "slack"
-  #   url  = "https://join.slack.com/t/devopzillacommunity/shared_invite/zt-rlt8goox-v~KnynspdnxVUHBnh6P~Kw"
+############################# social icons ##########################
 
-#   [[params.social]]
-#     name = "stackoverflow"
-#     url  = "https://www.stackoverflow.com/"
+# [[params.social]]
+# icon = "ti-email" # themify icon pack : https://themify.me/themify-icons
+# link = "mailto:contact@devopzilla.com"
 
-[menu]
-  [[menu.main]]
-    identifier = "events"
-    name       = "Events"
-    url        = "events/"
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "https://github.com/devopzilla"
 
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/dvpzla"
+
+[[params.social]]
+icon = "ti-book" # themify icon pack : https://themify.me/themify-icons
+link = "https://wiki.devopzilla.com"
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+copyright = "Copyright &copy; 2021 DevopZilla, Theme Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"

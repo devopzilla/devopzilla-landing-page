@@ -1,0 +1,35 @@
+################################# Service #################################
+service:
+  enable: true
+  title: Our Services
+  service_item:
+    - name: Platform as a Service
+      icon: ti-layout-menu-separated #ti-align-justify
+      content: |
+        Secure and convenient open-source platform to help you get started and scale.
+        Migrate to a managed kubernetes cluster or outside the platform with ease.
+        Available in Egypt.
+
+    - name: Managed Kubernetes
+      icon: ti-layout-grid3
+      content: |
+        Enable businesses to build cloud native applications while reducing the burden of maintaining a secure infrastructure.
+        Available in the cloud and on premise.
+
+    - name: DevSecOps Consulting
+      icon: ti-infinite
+      content: |
+        Help businesses perpetually achieve their goals through fast, secure and reliable processes.
+
+    # # service item loop
+    # - name : Graphic Design
+    #   icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    # # service item loop
+    # - name : Apps Development
+    #   icon : ti-package # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    # # service item loop
+    # - name : Networking
+    #   icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

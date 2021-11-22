@@ -1,0 +1,13 @@
+############################# call to action ##############################
+cta:
+  enable: true
+  bg_image: "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp: "images/backgrounds/bg-white-wall.webp"
+  # title: "We build your infra, We run your infra. But you own it!"
+  title: "Our DevSecOps Accelerator scales with Your Evolving Business"
+
+  # content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  button:
+    enable: false
+    label: "Start a project with us"
+    link: "#contact"

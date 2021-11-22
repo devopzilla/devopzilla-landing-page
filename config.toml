@@ -53,10 +53,15 @@ name = "Services"
 url = "#services"
 weight = 1
 
-# [[Languages.en.menu.main]]
-# name = "About"
-# url = "#about"
-# weight = 2
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Tech Wiki"
+url = "https://wiki.devopzilla.com"
+weight = 3
 
 
 # [[Languages.en.menu.main]]
@@ -79,10 +84,6 @@ weight = 1
 # url = "blog"
 # weight = 6
 
-[[Languages.en.menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 7
 
 
 ############################# Default Parameters ##########################

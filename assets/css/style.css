@@ -27,7 +27,8 @@ html {
   h6 {
     font-weight: 400;
     font-family: "Quattrocento Sans", sans-serif;
-    color: #afbac4;
+    /* color: #afbac4; */
+    color: #fff;
   }
   
   p {
@@ -737,6 +738,7 @@ html {
   
   .con-info {
     margin-bottom: 20px;
+    color: #fff;
   }
   
   .con-info i,
@@ -947,8 +949,8 @@ html {
   ==================================================================*/
   .service-block {
     padding: 60px 20px;
-    border-left: 1px solid rgba(236, 239, 241, 0.07);
-    border-top: 1px solid rgba(236, 239, 241, 0.07);
+    border-left: 4px solid rgba(236, 239, 241, 0.07);
+    border-top: 4px solid rgba(236, 239, 241, 0.07);
     margin-bottom: 40px;
     box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
   }
@@ -956,6 +958,11 @@ html {
   .service-block .service-icon {
     margin-bottom: 10px;
     font-size: 50px;
+    color: #fff;
+  }
+
+  .service-block p {
+    color: #BBB;
   }
   
   /*=================================================================
@@ -1538,12 +1545,16 @@ html {
   }
   
   .social-icon ul li a i {
-    color: #55606a;
+    /* color: #55606a; */
+    color: #fff;
+
     display: inline-block;
     font-size: 32px;
     line-height: 70px;
     margin: 0;
-    opacity: 0.3;
+    /* opacity: 0.3; */
+    opacity: 0.7;
+
     transition: all 400ms ease-out 0s;
   }
   

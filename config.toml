@@ -93,14 +93,14 @@ logo =  "devopzilla_logo_simpler.svg"
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
 # Google Analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "G-0X9MR84ZKC"
 # post share
-post_share = true
+post_share = false
 
 # preloader
 [params.preloader]
-enable = false
-preloader = "images/logo.png"
+enable = true
+preloader =  "devopzilla_zilla_simpler.svg" #"images/logo.png"
 
 # cookies
 [params.cookies]

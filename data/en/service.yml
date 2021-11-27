@@ -6,20 +6,23 @@ service:
     - name: Platform as a Service
       icon: ti-layout-menu-separated #ti-align-justify
       content: |
-        Secure and convenient open-source platform to help you get started and scale.
-        Migrate to a managed kubernetes cluster or outside the platform with ease.
-        Available in Egypt.
+        Our developer-centric platform to scale and secure your applications.
+        Made of battle-tested open-source components.
+        Enable you to migrate later on premise with ease.
+        Available hosted in Egypt.
 
-    - name: Managed Kubernetes
+    - name: Managed Platform
       icon: ti-layout-grid3
       content: |
-        Enable businesses to build cloud native applications while reducing the burden of maintaining a secure infrastructure.
-        Available in the cloud and on premise.
+        Our kubernetes platform in the cloud or on premise.
+        We abstract away the complexity of developing and securing your platform.
+        Migration from PaaS is smooth and free.
 
     - name: DevSecOps Consulting
       icon: ti-infinite
       content: |
-        Help businesses perpetually achieve their goals through fast, secure and reliable processes.
+        Our experts will guide you all the way through your devsecops journey.
+        We contribute to your software architecture, devops processes and security.
 
     # # service item loop
     # - name : Graphic Design

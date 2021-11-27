@@ -6,7 +6,7 @@ banner:
   bg_image: "CERN.jpg"
   icon: "" # themify icon pack : https://themify.me/themify-icons
   title: "DevSecOps Accelerator"
-  content: "By Developers, for Developers."
+  content: "built by developers for developers."
   button:
     enable: true
     label: "Our Services"

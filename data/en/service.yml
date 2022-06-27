@@ -3,20 +3,26 @@ service:
   enable: true
   title: Our Services
   service_item:
-    - name: Platform as a Service
-      icon: ti-layout-menu-separated #ti-align-justify
-      content: |
-        Our developer-centric platform to scale and secure your applications.
-        Made of battle-tested open-source components.
-        Enable you to migrate later on premise with ease.
-        Available hosted in Egypt.
+#     - name: Platform as a Service
+#       icon: ti-layout-menu-separated #ti-align-justify
+#       content: |
+#         Our developer-centric platform to scale and secure your applications.
+#         Made of battle-tested open-source components.
+#         Enable you to migrate later on premise with ease.
+#         Available hosted in Egypt.
 
-    - name: Managed Platform
-      icon: ti-layout-grid3
+#     - name: Managed Platform
+#       icon: ti-layout-grid3
+#       content: |
+#         Our kubernetes platform in the cloud or on premise.
+#         We abstract away the complexity of developing and securing your platform.
+#         Migration from PaaS is smooth and free.
+
+    - name: guku.io
+      icon: ti-layout-menu-separated
       content: |
-        Our kubernetes platform in the cloud or on premise.
-        We abstract away the complexity of developing and securing your platform.
-        Migration from PaaS is smooth and free.
+        Our platform-building platform enables your business to grow, stay leand and reduce infrastructure risks.
+        By building your own Kubernetes based application platforms quickly.
 
     - name: DevSecOps Consulting
       icon: ti-infinite

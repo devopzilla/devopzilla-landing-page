@@ -21,8 +21,8 @@ service:
     - name: guku.io
       icon: ti-layout-menu-separated
       content: |
-        Our platform-building platform enables your business to grow, stay leand and reduce infrastructure risks.
-        By building your own Kubernetes based application platforms quickly.
+        guku.io makes it easier to build and maintain secure Kubernetes platforms.
+        Start now @ https://guku.io.
 
     - name: DevSecOps Consulting
       icon: ti-infinite

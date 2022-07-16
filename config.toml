@@ -47,16 +47,25 @@ link = "plugins/google-map/map.js"
 # url = "events"
 # weight = 1
 
-
 [[Languages.en.menu.main]]
 name = "Services"
 url = "#services"
 weight = 1
 
 [[Languages.en.menu.main]]
+name = "Testimonials"
+url = "#testimonial"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "About"
+url = "#about"
+weight = 3
+
+[[Languages.en.menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 2
+weight = 4
 
 #[[Languages.en.menu.main]]
 #name = "Tech Wiki"

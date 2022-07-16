@@ -88,7 +88,7 @@ weight = 3
 
 ############################# Default Parameters ##########################
 [params]
-logo =  "devopzilla_logo_simpler.svg"
+logo =  "devopzilla-new-logo-vertical.svg"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
@@ -100,7 +100,7 @@ post_share = false
 # preloader
 [params.preloader]
 enable = true
-preloader =  "devopzilla_zilla_simpler.svg" #"images/logo.png"
+preloader =  "zilla-preloader.png" #"images/logo.png"
 
 # cookies
 [params.cookies]

@@ -59,12 +59,12 @@ html {
   ::-moz-selection {
     /* Code for Firefox */
     color: #fff;
-    background: #00ccff;
+    background: #13afc1;
   }
   
   ::selection {
     color: #fff;
-    background: #00ccff;
+    background: #13afc1;
   }
   
   hr {
@@ -126,7 +126,7 @@ html {
   
   .btn-transparent:hover,
   .btn-transparent:focus {
-    background-color: #00ccff;
+    background-color: #13afc1;
     border: 1px solid transparent;
     color: #fff;
   }
@@ -148,7 +148,7 @@ html {
     position: absolute;
     top: -4px;
     width: 50px;
-    background-color: #00ccff;
+    background-color: #13afc1;
   }
   
   .color {
@@ -226,11 +226,11 @@ html {
   
   a:focus,
   a:hover {
-    color: #00ccff;
+    color: #13afc1;
   }
   
   .btn-main {
-    background: #00ccff;
+    background: #13afc1;
     color: #fff;
     display: inline-block;
     font-size: 14px;
@@ -318,7 +318,7 @@ html {
   }
   
   .title h2 span {
-    color: #00ccff;
+    color: #13afc1;
   }
   
   .title p {
@@ -363,7 +363,7 @@ html {
   }
   
   .header-bradcrumb a:hover {
-    color: #00ccff;
+    color: #13afc1;
   }
   
   .slick-slide {
@@ -427,7 +427,7 @@ html {
   .navbar-dark .navbar-nav .nav-link.active,
   .navbar-dark .navbar-nav .nav-link.show,
   .navbar-dark .navbar-nav .show>.nav-link {
-    color: #00ccff;
+    color: #13afc1;
   }
   
   .navbar-toggler:focus {
@@ -471,7 +471,7 @@ html {
   
   .hero-area .block .video-button {
     background: #fff;
-    color: #00ccff;
+    color: #13afc1;
     display: inline-block;
     height: 60px;
     width: 60px;
@@ -566,7 +566,7 @@ html {
   }
   
   .about .block:hover {
-    border-bottom: 2px solid #00ccff;
+    border-bottom: 2px solid #13afc1;
   }
   
   .about .block:hover .icon-box {
@@ -638,7 +638,7 @@ html {
   
   .about-2 .content-block .media i {
     font-size: 30px;
-    color: #00ccff;
+    color: #13afc1;
   }
   
   .about-2 .content-block .media h4 {
@@ -718,12 +718,12 @@ html {
   
   .form-meghna input:hover,
   .form-meghna textarea:hover {
-    border-color: #00ccff;
+    border-color: #13afc1;
   }
   
   #contact-submit {
     border: 1px solid rgba(236, 239, 241, 0.07);
-    background: #00ccff;
+    background: #13afc1;
     padding: 12px 0;
     width: 100%;
     margin: 0;
@@ -821,7 +821,7 @@ html {
   }
   
   .price-title h3 {
-    color: #00ccff;
+    color: #13afc1;
     margin: 0 0 10px;
     text-transform: uppercase;
   }
@@ -832,7 +832,7 @@ html {
   }
   
   .price-title .value {
-    color: #00ccff;
+    color: #13afc1;
     font-size: 30px;
   }
   
@@ -882,7 +882,7 @@ html {
   }
   
   .portfolio-filter .btn.active {
-    border-color: #00ccff;
+    border-color: #13afc1;
   }
   
   .portfolio-block {
@@ -941,7 +941,7 @@ html {
   }
   
   .portfolio-block .caption .search-icon {
-    background: #00ccff;
+    background: #13afc1;
     width: 50px;
     height: 50px;
     color: #fff;
@@ -961,7 +961,7 @@ html {
     padding: 60px 20px;
     border-left: 4px solid rgba(236, 239, 241, 0.07);
     border-top: 4px solid rgba(236, 239, 241, 0.07);
-    margin-bottom: 40px;
+    margin-bottom: 40px;13afc1
     box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
   }
   
@@ -992,13 +992,13 @@ html {
   
   .service-2 .service-item:hover i {
     background: #fff;
-    color: #00ccff;
+    color: #13afc1;
   }
   
   .service-2 .service-item i {
     font-size: 30px;
     display: inline-block;
-    background: #00ccff none repeat scroll 0 0;
+    background: #13afc1 none repeat scroll 0 0;
     border-radius: 30px;
     box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.1);
     color: #fff;
@@ -1031,7 +1031,7 @@ html {
   }
   
   .skill-bar .progress .progress-bar {
-    background: #00ccff;
+    background: #13afc1;
   }
   
   /*=================================================================
@@ -1110,7 +1110,7 @@ html {
   
   .member-photo .mask ul li a:hover {
     background-color: #fff;
-    color: #00ccff;
+    color: #13afc1;
     border: 1px solid transparent;
   }
   
@@ -1191,7 +1191,7 @@ html {
   
   .owl-controls .owl-page.active span,
   .owl-controls .owl-page:hover span {
-    background-color: #00ccff;
+    background-color: #13afc1;
     border: 2px solid transparent;
   }
   
@@ -1285,7 +1285,7 @@ html {
   }
   
   .post-meta a {
-    color: #00ccff;
+    color: #13afc1;
   }
   
   .post-meta>span {
@@ -1346,7 +1346,7 @@ html {
   }
   
   .next-prev a:hover {
-    color: #00ccff;
+    color: #13afc1;
   }
   
   .next-prev .prev-post i {
@@ -1369,7 +1369,7 @@ html {
   }
   
   .social-profile ul li a i:hover {
-    color: #00ccff;
+    color: #13afc1;
   }
   
   .comments-section {
@@ -1417,7 +1417,7 @@ html {
   }
   
   .comment-wrap .media .media-heading a {
-    color: #00ccff;
+    color: #13afc1;
     font-size: 13px;
   }
   
@@ -1444,7 +1444,7 @@ html {
   .comment-reply-form input:focus,
   .comment-reply-form textarea:focus {
     box-shadow: none;
-    border: 1px solid #00ccff;
+    border: 1px solid #13afc1;
   }
   
   .comment-reply-form textarea,
@@ -1546,7 +1546,7 @@ html {
   }
   
   .social-icon ul li a:hover {
-    background: #00ccff;
+    background: #13afc1;
   }
   
   .social-icon ul li a:hover i {
@@ -1593,8 +1593,8 @@ html {
   }
   
   #scrollUp:hover {
-    background-color: #00ccff;
-    border: 1px solid #00ccff;
+    background-color: #13afc1;
+    border: 1px solid #13afc1;
   }
   
   /*=================================================================
@@ -2020,7 +2020,7 @@ html {
   }
   
   .form-control-meghna .form-control:focus {
-    border-color: #00ccff;
+    border-color: #13afc1;
     box-shadow: 0 0 0 0.2rem rgba(0, 174, 255, 0.432);
   }
   
@@ -2274,8 +2274,8 @@ html {
   }
   
   .pagination .page-item .page-link:hover {
-    background: #00ccff;
-    border-color: #00ccff;
+    background: #13afc1;
+    border-color: #13afc1;
     color: #fff
   }
   
@@ -2285,9 +2285,9 @@ html {
   }
   
   .pagination .page-item.active .page-link {
-    background: #00ccff;
+    background: #13afc1;
     color: #fff;
-    border-color: #00ccff;
+    border-color: #13afc1;
   }
   
   #select-language {

@@ -17,7 +17,7 @@ testimonial:
     # testimonial item loop
     - name: Amr El-Mougy PhD, CTO @ Preventia Technologies
       image: images/client/client-4.jpg
-      content: Our collaboration with Devopzilla has been of significant value to our company. They contributed massively to our security training and risk assessment. Their team is highly capable, efficient, and professional.
+      content: '"Our collaboration with Devopzilla has been of significant value to our company. They contributed massively to our security training and risk assessment. Their team is highly capable, efficient, and professional."'
 
 
     # testimonial item loop

@@ -1,26 +1,26 @@
 ################################# Testimonial #########################
 testimonial:
-  enable: false
+  enable: true
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
     # testimonial item loop
-    - name: Jonathon Andrew
-      image: images/client/client-1.jpg
-      image_webp: images/client/client-1.webp
-      date: Dec 26, 2018
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    # - name: Abdelkader Ahmed, CCO @ Zammit Shop
+    #   image: images/client/client-1.jpg
+    #   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
 
     # testimonial item loop
-    - name: Mark Dinn
-      image: images/client/client-2.jpg
-      image_webp: images/client/client-2.webp
-      date: Dec 26, 2018
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    # - name: Maged Shalaby, Head of Product & Engineering @ Preventia
+    #   image: images/client/client-2.png
+    #   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
 
     # testimonial item loop
-    - name: Lemos Kail
-      image: images/client/client-1.jpg
-      image_webp: images/client/client-1.webp
-      date: Dec 26, 2018
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name: Amr El-Mougy PhD, CTO @ Preventia Technologies
+      image: images/client/client-4.jpg
+      content: Our collaboration with Devopzilla has been of significant value to our company. They contributed massively to our security training and risk assessment. Their team is highly capable, efficient, and professional.
+
+
+    # testimonial item loop
+    # - name: Muhammed Mahmoud, Co-Founder @ Haktiv
+    #   image: images/client/client-3.jpg
+    #   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!

@@ -4,10 +4,9 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
-    # testimonial item loop
-    # - name: Abdelkader Ahmed, CCO @ Zammit Shop
-    #   image: images/client/client-1.jpg
-    #   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name: Abdelkader Ahmed, CCO @ Zammit Shop
+      image: images/client/client-1.jpg
+      content: '"I have had a very good experience dealing with Devopzilla. They have helped, worked with, and advised our team in many aspects regarding our application and our infrastructure. Devopzilla has come into a time to fill a huge gap that we had, work on our infrastructure and carefully moving us into a much more reliable and scalable one. They have worked side by side with our tech team to achieve these successes and we think it would have been 10 times difficult to do it without them."'
 
     # testimonial item loop
     # - name: Maged Shalaby, Head of Product & Engineering @ Preventia

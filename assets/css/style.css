@@ -33,6 +33,13 @@ html {
     color: #fff;
   }
 
+  .ti-heart{
+    color: palevioletred;
+  }
+
+  /* .ti-layout-menu-separated{
+  color: #01dec4;
+  } */
 
   h3 {
     font-weight: 400;

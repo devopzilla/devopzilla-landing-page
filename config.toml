@@ -48,7 +48,7 @@ link = "plugins/google-map/map.js"
 # weight = 1
 
 [[Languages.en.menu.main]]
-name = "Services"
+name = "What we do"
 url = "#services"
 weight = 1
 

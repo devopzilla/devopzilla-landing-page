@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable: true
-  title: Our Services
+  title: What we do
   service_item:
 #     - name: Platform as a Service
 #       icon: ti-layout-menu-separated #ti-align-justify
@@ -27,8 +27,14 @@ service:
     - name: DevSecOps Consulting
       icon: ti-infinite
       content: |
-        Our experts will guide you all the way through your devsecops journey.
-        We contribute to your software architecture, devops processes and security.
+        We guide you all the way through your devsecops journey.
+        We contribute to your software architecture, devops processes, dev training, and security.
+
+    - name: Community
+      icon: ti-heart
+      content: |
+        We love contributing to the local tech community.
+        Arrange meetups and free bootcamps, to help each other learn about the latest tech.
 
     # # service item loop
     # - name : Graphic Design

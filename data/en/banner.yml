@@ -9,5 +9,5 @@ banner:
   content: "built by developers for developers"
   button:
     enable: true
-    label: "Our Services"
+    label: "What we do"
     link: "#services"

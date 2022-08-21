@@ -18,12 +18,12 @@ service:
 #         We abstract away the complexity of developing and securing your platform.
 #         Migration from PaaS is smooth and free.
 
-    - name: guku.io
+    - name: "[guku.io](https://guku.io)"
       icon: ti-layout-menu-separated
       content: |
         guku.io is a platform engineering SaaS.
         helps you build, maintain, and scale Kubernetes platforms.
-        Start now @ https://guku.io.
+        [Start now](https://guku.io)
 
     - name: DevSecOps Consulting
       icon: ti-infinite
@@ -36,6 +36,7 @@ service:
       content: |
         We love contributing to the local tech community.
         Arrange meetups and free bootcamps, to help each other learn about the latest tech.
+        [Join our community](https://join.slack.com/t/devopzillacommunity/shared_invite/zt-rlt8goox-v~KnynspdnxVUHBnh6P~Kw)
 
     # # service item loop
     # - name : Graphic Design

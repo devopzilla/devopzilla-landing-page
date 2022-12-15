@@ -3,40 +3,39 @@ service:
   enable: true
   title: What we do
   service_item:
-#     - name: Platform as a Service
-#       icon: ti-layout-menu-separated #ti-align-justify
-#       content: |
-#         Our developer-centric platform to scale and secure your applications.
-#         Made of battle-tested open-source components.
-#         Enable you to migrate later on premise with ease.
-#         Available hosted in Egypt.
+    #     - name: Platform as a Service
+    #       icon: ti-layout-menu-separated #ti-align-justify
+    #       content: |
+    #         Our developer-centric platform to scale and secure your applications.
+    #         Made of battle-tested open-source components.
+    #         Enable you to migrate later on premise with ease.
+    #         Available hosted in Egypt.
 
-#     - name: Managed Platform
-#       icon: ti-layout-grid3
-#       content: |
-#         Our kubernetes platform in the cloud or on premise.
-#         We abstract away the complexity of developing and securing your platform.
-#         Migration from PaaS is smooth and free.
+    #     - name: Managed Platform
+    #       icon: ti-layout-grid3
+    #       content: |
+    #         Our kubernetes platform in the cloud or on premise.
+    #         We abstract away the complexity of developing and securing your platform.
+    #         Migration from PaaS is smooth and free.
 
-    - name: "[guku.io](https://guku.io)"
+    - name: "[devx.guku.io](https://devx.guku.io)"
       icon: ti-layout-menu-separated
       content: |
-        guku.io is a platform engineering SaaS.
-        helps you build, maintain, and scale Kubernetes platforms.
-        [Start now](https://guku.io)
+        Free developers to build the best products faster.
+        [DevX GitHub](https://github.com/devopzilla/guku-devx).
 
-    - name: DevSecOps Consulting
+    - name: Consulting
       icon: ti-infinite
       content: |
         We guide you all the way through your devsecops journey.
-        We contribute to your software architecture, devops processes, dev training, and security.
+        We contribute to your software architecture, internal developer platform, dev training, and security.
 
     - name: Community
       icon: ti-heart
       content: |
         We love contributing to the local tech community.
         Arrange meetups and free bootcamps, to help each other learn about the latest tech.
-        [Join the community](https://join.slack.com/t/devopzillacommunity/shared_invite/zt-rlt8goox-v~KnynspdnxVUHBnh6P~Kw)
+        [Join Slack](https://join.slack.com/t/devopzillacommunity/shared_invite/zt-rlt8goox-v~KnynspdnxVUHBnh6P~Kw)
 
     # # service item loop
     # - name : Graphic Design
